@@ -1,0 +1,30 @@
+{
+  "name": "@ruhend/facebook",
+  "version": "1.0.0",
+  "description": "Scraper Download From Facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fb",
+    "facebook",
+    "downloader",
+    "fb-downloader",
+    "video-downloader",
+    "facebook-downloader",
+    "fbdl",
+    "baileys",
+    "baileys-md"
+    
+  ],
+  "author": "Ruli Henderson Ig: ru_hend_",
+  "contributors": [
+    "Single"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+	"types": "index.d.ts"
+}
