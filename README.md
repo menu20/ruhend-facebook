@@ -6,9 +6,6 @@ For ESM
 
 
 
-
-
-
 import getFBInfo from "@ruhend/facebook";
 
 // OR
