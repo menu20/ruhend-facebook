@@ -1,4 +1,7 @@
 Facebook Downloader Can Download From Facebook
+add to package.json
+"@ruhend/facebook": "github:menu20/ruhend-facebook"
+
 
 npm i github:menu20/ruhend-facebook
 
