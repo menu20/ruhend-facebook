@@ -7,6 +7,7 @@ import getFBInfo from "@ruhend/facebook";
 
 // OR
 FOR CJS
+
 const getFBInfo = require("@ruhend/facebook");
 
 getFBInfo("https://www.facebook.com")//Your Url
