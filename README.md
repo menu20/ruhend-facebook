@@ -9,7 +9,7 @@ import getFBInfo from "@ruhend/facebook";
 FOR CJS
 const getFBInfo = require("@ruhend/facebook");
 
-getFBInfo("https://www.facebook.com/watch?v=272591278381388")
+getFBInfo("https://www.facebook.com")//Your Url
     .then((result) => console.log("Result:", result))
     .catch((error) => console.log("Error:", error));
 
